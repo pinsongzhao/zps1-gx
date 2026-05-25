@@ -1,0 +1,10 @@
+astropy==6.0.0
+matplotlib==3.10.8
+numba==0.60.0
+numpy==1.26.4
+pandas==3.0.1
+photutils==2.3.0
+reproject==0.14.1
+scipy==1.17.1
+toml==0.10.2
+tqdm==4.66.5
