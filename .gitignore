@@ -194,3 +194,4 @@ __pycache__/
 .DS_Store
 demo/
 demo_group/
+doc/_build/
