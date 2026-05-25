@@ -7,8 +7,8 @@ demo_local/
 # visualization
 vistool/
 
-# documentation
-doc/
+# documentation build output
+doc/_build/
 
 # tests directory
 tests/

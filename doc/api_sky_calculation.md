@@ -1,0 +1,1 @@
+/home/zps/GalfitX-main/web/api_sky_calculation.md

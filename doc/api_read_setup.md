@@ -1,0 +1,1 @@
+/home/zps/GalfitX-main/web/api_read_setup.md
