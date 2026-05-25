@@ -29,6 +29,9 @@ jobs:
         run: |
           pip install sphinx myst-parser sphinx-rtd-theme
 
+      - name: Copy markdown sources into doc/
+        run: cp web/*.md doc/
+
       - name: Build documentation
         run: |
           cd doc

@@ -1,1 +1,0 @@
-/home/zps/GalfitX-main/web/demo_gxdemo.md

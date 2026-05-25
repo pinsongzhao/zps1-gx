@@ -1,1 +1,0 @@
-/home/zps/GalfitX-main/web/api_gx_gsutils.md

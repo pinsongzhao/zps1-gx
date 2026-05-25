@@ -1,1 +1,0 @@
-/home/zps/GalfitX-main/web/api_csst_pipe.md

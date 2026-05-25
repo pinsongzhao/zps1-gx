@@ -4,9 +4,6 @@ author = "Chao Ma"
 
 extensions = [
     "myst_parser",
-    "sphinx.ext.autodoc",
-    "sphinx.ext.napoleon",
-    "sphinx.ext.viewcode",
 ]
 
 templates_path = ["_templates"]
@@ -20,3 +17,7 @@ master_doc = "index"
 source_suffix = {
     ".md": "markdown",
 }
+
+# Use web/ as additional source directory
+import os
+html_context = {}

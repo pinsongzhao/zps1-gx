@@ -1,1 +1,0 @@
-/home/zps/GalfitX-main/web/api_create_setup_gs.md
